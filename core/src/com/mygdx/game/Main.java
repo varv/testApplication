@@ -25,7 +25,7 @@ import java.io.FileNotFoundException;
  * Created by Varv on 15.12.2016.
  */
 
-public class MyGdxGame implements ApplicationListener {
+public class Main implements ApplicationListener {
     public PerspectiveCamera perspectiveCamera;
     public Model model;
     public CameraInputController cameraInputController;
